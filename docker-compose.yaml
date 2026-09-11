@@ -17,6 +17,8 @@ services:
     image: nmatsui/hello-world-api
     ports:
       - "3002:3000"
+    environment:
+      - MESSAGE="Fabricio Colona"
 
   db:
     image: postgres:13
