@@ -31,6 +31,6 @@ MESSAGE=<Colocar nombre>
 
 
 # Creditos
-- Walter Ivan Leturia Rodriguez
+- Fabricio Alessandro Colona Chávez **(ID: 000244576)**
 
 # ETC
