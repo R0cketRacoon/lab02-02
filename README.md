@@ -80,6 +80,16 @@ docker run -d --rm -p 3002:3000 nmatsui/hello-world-api
 
 
 ```bash
+docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+```
+
+![instalando_postgres](capturas/instalando_postgres.png)
+
+![instalacion_postgres_completa](capturas/instalacion_postgres_completa.png)
+
+![validar_postgres_corriendo](capturas/validar_postgres_corriendo.png.png)
+
+```bash
 docker compose up -d
 ```
 
