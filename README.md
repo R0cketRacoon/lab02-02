@@ -99,6 +99,13 @@ docker compose up -d
 ![docker_compose_ejecutado](capturas/docker_compose_ejecutado.png)
 
 
+```bash
+docker compose up -d
+```
+![config_message](capturas/config_message.png)
+
+
+
 ## Configuración por entorno
 
 ```
