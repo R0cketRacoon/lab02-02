@@ -61,6 +61,12 @@ docker logs ID/Nombre
 
 ![IdentificarAPI](capturas/docker_logs.png)
 
+```bash
+curl.exe -i http://localhost:3000/
+```
+
+![ValidadRespuestaAPI](capturas/validar_respuesta_API.png)
+
 
 
 ```bash
