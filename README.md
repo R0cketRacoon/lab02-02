@@ -55,6 +55,12 @@ docker ps
 
 ![Comprobacion](capturas/comprobar_docker.png)
 
+```bash
+docker logs ID/Nombre
+```
+
+![IdentificarAPI](capturas/docker_logs.png)
+
 
 
 ```bash
