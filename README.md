@@ -17,6 +17,19 @@ BD
 
 # Indicaciones
 
+Trabajar un docker compose, especificando configuración y comandos para despliegue. Debe permitir lo siguiente:
+- 3 copias de una API build local
+- Configuración BD
+- Uso de volúmenes
+- Uso de variables de entorno
+- En README. Responder los tipos de redes y los tipos de volumen que existen en docker
+- Hacer uso de Conventional Commits
+- Repositorio publico
+- Uso de .gitignore
+- Opcional: Capturas de su proyecto desplegado en README.md
+Deben subir la actividad en un repositorio publico de GitHub
+Uso de IA no está permitido, en caso de evidenciar uso de IA la calificación es de 0.
+
 ## Comandos
 
 ```bash
