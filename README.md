@@ -68,6 +68,16 @@ curl.exe -i http://localhost:3000/
 ![ValidadRespuestaAPI](capturas/validar_respuesta_api.png)
 
 
+```bash
+docker run -d --rm -p 3001:3000 nmatsui/hello-world-api
+
+docker run -d --rm -p 3002:3000 nmatsui/hello-world-api
+```
+
+![ReplicandoDockerAPI](capturas/crear_tres_copias_api.png)
+
+![ValidarCopiasAPI](capturas/validar_copias_api.png)
+
 
 ```bash
 docker compose up -d
