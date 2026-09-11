@@ -65,7 +65,7 @@ docker logs ID/Nombre
 curl.exe -i http://localhost:3000/
 ```
 
-![ValidadRespuestaAPI](capturas/validar_respuesta_API.png)
+![ValidadRespuestaAPI](capturas/validar_respuesta_api.png)
 
 
 
