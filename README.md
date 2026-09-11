@@ -92,6 +92,12 @@ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgre
 ```bash
 docker compose up -d
 ```
+![docker_desktop_vacio](capturas/docker_desktop_vacio.png)
+
+![ejecutar_docker_compose](capturas/ejecutar_docker_compose.png)
+
+![docker_compose_ejecutado](capturas/docker_compose_ejecutado.png)
+
 
 ## Configuración por entorno
 
