@@ -87,7 +87,7 @@ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgre
 
 ![instalacion_postgres_completa](capturas/instalacion_postgres_completa.png)
 
-![validar_postgres_corriendo](capturas/validar_postgres_corriendo.png.png)
+![validar_postgres_corriendo](capturas/validar_postgres_corriendo.png)
 
 ```bash
 docker compose up -d
