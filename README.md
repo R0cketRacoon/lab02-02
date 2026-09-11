@@ -33,6 +33,31 @@ Uso de IA no está permitido, en caso de evidenciar uso de IA la calificación e
 ## Comandos
 
 ```bash
+docker version
+```
+![docker_version](capturas/docker_version.png)
+
+```bash
+docker pull nmatsui/hello-world-api
+```
+
+```bash
+docker run -d --rm -p 3000:3000 nmatsui/hello-world-api
+```
+
+![Instalacion](capturas/instalar_imagen_docker.png)
+
+![DockerDesktop](capturas/docker_container.png)
+
+```bash
+docker ps
+```
+
+![Comprobacion](capturas/comprobar_docker.png)
+
+
+
+```bash
 docker compose up -d
 ```
 
